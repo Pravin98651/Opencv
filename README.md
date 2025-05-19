@@ -1,7 +1,4 @@
-# Opencv
-Here's a detailed **description comparing two image segmentation techniques** based on your code:
 
----
 
 ## 🖼️ Image Segmentation: Thresholding vs Watershed
 
